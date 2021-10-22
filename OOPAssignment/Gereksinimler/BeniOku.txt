@@ -1,5 +1,5 @@
 ﻿
-ÖDEV TANIMI
+ÖDEV TANIMIIII
 ---------------
 	Bir harita(Surface) ve harita üzerindeki araçlardan(Car) oluşan bir oyun kodlayacağız.
 	Araçlar, harita üzerinde oyuncunun belirlediği pozisyondan başlayacak ve oyuncunun belirlediği yöne hareket edecektir.
